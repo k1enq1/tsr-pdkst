@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>YouTube Playlist Feed</title>
+    <link>https://www.youtube.com/playlist?list=PLTb4o5yMV1PPoQtY--kDvhJCZQWuYd1PG</link>
+    <description>Custom RSS feed from a YouTube playlist</description>
+    <item>
+      <title>Что, если ты не знаешь, кто ты и чего хочешь? | Артём Агабеков</title>
+      <link>https://www.youtube.com/watch?v=Ne5YfkGs17k</link>
+      <description>▶︎ Подать заявку на поступление можно уже сейчас – чем раньше подаете заявку, тем меньше конкурс...</description>
+      <pubDate>2025-04-24T07:23:26Z</pubDate>
+    </item>
+    <item>
+      <title>Почему 90% людей живут не своей жизнью? Как построить свою личную стратегию | Царюк Денис</title>
+      <link>https://www.youtube.com/watch?v=w_N1gJIJtrs</link>
+      <description>▶︎ мой список из 100 книг, которые нужно успеть прочитать до конца жизни, скачать бесплатно...</description>
+      <pubDate>2025-03-18T08:47:52Z</pubDate>
+    </item>
+    <item>
+      <title>Как прожить на 30 лет дольше: советы эндокринолога Романа Терушкина</title>
+      <link>https://www.youtube.com/watch?v=V2bzuLyHo4E</link>
+      <description>▶︎ Мы с BOMBBAR дарим вам СКИДКУ 30% на всё по коду &quot;tsaryuk&quot; действует до  20 апреля...</description>
+      <pubDate>2025-03-26T08:20:56Z</pubDate>
+    </item>
+    <item>
+      <title>Deleted video</title>
+      <link>https://www.youtube.com/watch?v=qS7V6LSfYR4</link>
+      <description>This video is unavailable.</description>
+      <pubDate>2025-03-25T11:44:25Z</pubDate>
+    </item>
+    <item>
+      <title>Вот ПОЧЕМУ ваши ЦЕЛИ не работают! Подкаст о личной стратегии с Маргаритой Шиверских</title>
+      <link>https://www.youtube.com/watch?v=CVzhVHGPwDs</link>
+      <description>▶︎ мой список из 100 книг, которые нужно успеть прочитать до конца жизни, скачать бесплатно...</description>
+      <pubDate>2025-02-16T14:01:50Z</pubDate>
+    </item>
+  </channel>
+</rss>
